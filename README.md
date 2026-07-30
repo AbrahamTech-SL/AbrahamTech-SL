@@ -25,6 +25,30 @@ and intuitive interfaces that people love to use.
 
 ⸻
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+### 🏗️ [HJ Construction Company](https://github.com/AbrahamTech-SL/HJ-CONSTRUCTION-COMPANY)
+Business website for a Freetown construction company, with SEO-optimized copy and Google Business Profile integration to boost local visibility.
+🔗 Live Site: _add link here_
+
+### 🧼 [SanitexPro](https://github.com/AbrahamTech-SL/SANITEX-PRO)
+Cleaning & fumigation service platform built with React, Vite, and Supabase — includes a full service request booking form.
+🔗 Live Site: _add link here_
+
+### 💪 [Gym](https://github.com/AbrahamTech-SL/GYM-)
+Fitness and gym membership website with a bold, energetic design tailored for a local fitness brand.
+🔗 Live Site: _add link here_
+
+### 🎉 [Event Planner](https://github.com/AbrahamTech-SL/EVENT-PLANNER)
+Event planning and booking platform designed to streamline scheduling and client requests.
+🔗 Live Site: _add link here_
+
+### 🌱 [Smart Green Services](https://github.com/AbrahamTech-SL/-Smart-Green-Services)
+Sustainability-focused services website with a clean, eco-conscious design.
+🔗 Live Site: _add link here_
+
+⸻
+
 <h2 align="center">🛠️ Languages & Tools</h2>
 <p align="center">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
