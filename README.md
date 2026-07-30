@@ -29,23 +29,20 @@ and intuitive interfaces that people love to use.
 
 ### 🏗️ [HJ Construction Company](https://github.com/AbrahamTech-SL/HJ-CONSTRUCTION-COMPANY)
 Business website for a Freetown construction company, with SEO-optimized copy and Google Business Profile integration to boost local visibility.
-🔗 Live Site: _add link here_
+🔗 Live Site: [hjconstructionltd.com](https://hjconstructionltd.com)
 
 ### 🧼 [SanitexPro](https://github.com/AbrahamTech-SL/SANITEX-PRO)
 Cleaning & fumigation service platform built with React, Vite, and Supabase — includes a full service request booking form.
-🔗 Live Site: _add link here_
 
 ### 💪 [Gym](https://github.com/AbrahamTech-SL/GYM-)
 Fitness and gym membership website with a bold, energetic design tailored for a local fitness brand.
-🔗 Live Site: _add link here_
+🔗 Live Site: [freetowngym.vercel.app](https://freetowngym.vercel.app)
 
 ### 🎉 [Event Planner](https://github.com/AbrahamTech-SL/EVENT-PLANNER)
 Event planning and booking platform designed to streamline scheduling and client requests.
-🔗 Live Site: _add link here_
 
 ### 🌱 [Smart Green Services](https://github.com/AbrahamTech-SL/-Smart-Green-Services)
 Sustainability-focused services website with a clean, eco-conscious design.
-🔗 Live Site: _add link here_
 
 ⸻
 
